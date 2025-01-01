@@ -6,7 +6,7 @@ Currently working for <strong>Grug's Lair</strong>
 </div>
 <br>
 <h3 align="center">Languages & Frameworks:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -16,12 +16,16 @@ Currently working for <strong>Grug's Lair</strong>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -34,11 +38,11 @@ Currently working for <strong>Grug's Lair</strong>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" alt="cairo" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="40" height="40"/>
+  </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
 
@@ -57,16 +61,18 @@ Currently working for <strong>Grug's Lair</strong>
 
 <h3 align="center">Engines:</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer" style="background-color: #f0f0f0; padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="background-color: #f0f0f0; padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://www.svgrepo.com/show/342325/unity.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://bevyengine.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/bevy-1.svg" alt="bevy" width="40" height="40"/>
   </a>
 </p>
+
+
 
 
 <hr width="100%" >
