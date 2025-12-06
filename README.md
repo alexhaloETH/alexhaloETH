@@ -77,18 +77,14 @@ Currently working for <strong>Grug's Lair</strong>
 <h3>My GitHub Stats</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexhaloETH&show_icons=true&theme=dark&locale=en&layout=compact" alt="alexhaloETH" />
-  </p>
+ 
   <div style="background-color: black; width: 200px; height: 200px; display: inline-block;">
     <img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="display: block; margin: auto;" />
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=alexhaloETH&show_icons=true&theme=dark&locale=en" alt="alexhaloETH" />
-  </p>
+ 
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexhaloETH&theme=dark" alt="alexhaloETH" />
   </p>
