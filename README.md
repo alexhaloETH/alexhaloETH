@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 
 <div align="center">
-  Currently working for <strong>Grug's Lair</strong>
+  <strong>CTO</strong> at <strong>Grug's Lair</strong>
   <img src="https://avatars.githubusercontent.com/u/104983248?s=200&v=4" alt="Grug's Lair Logo" width="40" height="40" style="vertical-align: middle; margin-left: 10px;"/>
 </div>
+
+<br>
+
+<p align="center">
+  🎮 Game developer passionate about Unity<br>
+  🤖 Love building bots and automation<br>
+  🌱 Fascinated by procedural generation
+</p>
 
 <br>
 
