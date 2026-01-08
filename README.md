@@ -1,108 +1,169 @@
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════════════════╗
-║  ▓▓░░▒▒░░  ▓▓▓▓  ░░▒▒▓▓  ▓▓░░▒▒░░  ▓▓▓▓  ░░▒▒▓▓  ▓▓░░▒▒░░  ▓▓▓▓  ░░▒▒▓▓  ▓▓░░ ║
-║  ░░▓▓░░▒▒  ░░░░  ▓▓▒▒░░  ░░▓▓░░▒▒  ░░░░  ▓▓▒▒░░  ░░▓▓░░▒▒  ░░░░  ▓▓▒▒░░  ░░▓▓ ║
-║                                                                                ║
-║      ████╗ ██╗     ███████╗██╗  ██╗    ██╗  ██╗ █████╗ ██╗      ██████╗      ║
-║     ██╔══██╗██║     ██╔════╝╚██╗██╔╝    ██║  ██║██╔══██╗██║     ██╔═══██╗     ║
-║     ███████║██║     █████╗   ╚███╔╝     ███████║███████║██║     ██║   ██║     ║
-║     ██╔══██║██║     ██╔══╝   ██╔██╗     ██╔══██║██╔══██║██║     ██║   ██║     ║
-║     ██║  ██║███████╗███████╗██╔╝ ██╗    ██║  ██║██║  ██║███████╗╚██████╔╝     ║
-║     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝      ║
-║                                                                                ║
-║  ▒▒░░▓▓▒▒  ▒▒▒▒  ░░▓▓▒▒  ▒▒░░▓▓▒▒  ▒▒▒▒  ░░▓▓▒▒  ▒▒░░▓▓▒▒  ▒▒▒▒  ░░▓▓▒▒  ▒▒░░ ║
-║  ▓▓▒▒░░▓▓  ▓▓▓▓  ▒▒░░▓▓  ▓▓▒▒░░▓▓  ▓▓▓▓  ▒▒░░▓▓  ▓▓▒▒░░▓▓  ▓▓▓▓  ▒▒░░▓▓  ▓▓▒▒ ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ALEX%20HALO&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🎮 **CTO** @ [**Grug's Lair**](https://github.com/grugslair) <img src="https://avatars.githubusercontent.com/u/104983248?s=200&v=4" alt="Grug's Lair" width="30" height="30"/>
-
-</div>
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  "Code is like procedural terrain - layer simple rules      │
-│   to create infinite complexity."                           │
-│                                           - Alex, probably   │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=CTO+%40+Grug's+Lair;Game+Developer+%26+Creator;Building+The+Future+of+Gaming" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🌊 **About Me** • `seed: 0x4C3F0`
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
-const alex = {
-  role: "CTO & Game Developer",
-  passions: ["🎮 Unity Development", "🤖 Automation & Bots", "🌱 Procedural Generation"],
-  currentFocus: "Building immersive game experiences",
-  philosophy: "Embrace the chaos of emergent systems",
+### 🚀 ABOUT ME
 
-  procedural: {
-    terrainGen: "Perlin noise + Cellular automata",
-    cityBuilding: "Wave Function Collapse",
-    dungeonCrawlers: "BSP tree partitioning",
-    randomness: "Seeded chaos is the best chaos"
-  }
-};
+I'm a **CTO** and **Game Developer** obsessed with creating experiences that push boundaries.
+
+- 🎮 **Building** The Algo for everything
+- 🤖 **Automating** literally everything
+- 🌍 **Exploring** procedural worlds & Compute Shaders
+- ⚡ **Shipping** code that matters
+- 🔥 **Breaking** production (sometimes)
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## ⚔️ TECH STACK ⚔️
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs,typescript,rust,cpp,python,react,nodejs,graphql,docker,git,blender,figma,vscode&perline=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💎 FEATURED PROJECTS 💎
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Game Development
+Building immersive **multiplayer experiences** with **Unity**. Specializing in:
+- Procedural generation algorithms
+- GPU-accelerated compute shaders for real-time generation
+
+</td>
+<td width="50%">
+
+### 🔗 Blockchain Gaming
+Pioneering the intersection of **Web3** and gaming with **Starknet** integration:
+- On-chain game logic with Cairo
+- NFT-based game economies & asset ownership
+- Decentralized multiplayer infrastructure
+- Provably fair random generation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Automation & Bots
+Creating intelligent automation solutions:
+- Trading/Scraping bots
+- Home automation
+- Habit reinforcement & productivity tracking
+- Data analysis & visualization tools
+
+</td>
+<td width="50%">
+
+### 🎨 Creative Tools
+Building tools that empower creators:
+- Procedural asset generation
+- Level design automation & generation tools
+- Custom Unity editor extensions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔥 CURRENT OBSESSIONS 🔥
+
+</div>
+
+```yaml
+focus:
+  - Making the game of all time!
+
+experiments:
+  - Wave Function Collapse for building generation
+  - Building a home dashboard with multiple usages, from finance to shopping aid
+  - Decentralized game state management
 ```
 
 ---
 
-## ⚡ **Tech Stack** • `noise(x, y, z, time)`
-
 <div align="center">
 
+## 🎮 GAME ENGINE MASTERY 🎮
 
-### **Frameworks & Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" alt="unreal" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/bevy-1.svg" alt="bevy" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="45" height="45"/>
-  <img src="https://www.cairo-lang.org/wp-content/uploads/2024/03/Cairo-logo.png" alt="cairo" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt="blender" width="45" height="45"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white" alt="Unity" height="40"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?logo=unrealengine&logoColor=white" alt="Unreal Engine" height="40"/>
+  <img src="https://img.shields.io/badge/Bevy-232326.svg?logo=rust&logoColor=white" alt="Bevy" height="40"/>
+</p>
+
+## 💻 LANGUAGES & FRAMEWORKS 💻
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white" alt="C#" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript" height="40"/>
+  <img src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white" alt="Rust" height="40"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=blue" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white" alt="C++" height="40"/>
+  <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" alt="React" height="40"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" alt="GraphQL" height="40"/>
+  <img src="https://img.shields.io/badge/Cairo-000000.svg?logo=starknet&logoColor=white" alt="Cairo" height="40"/>
 </p>
 
 </div>
 
 ---
 
-## 📊 **GitHub Metrics** • `lerp(past, present, deltaTime)`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexhaloETH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexhaloETH&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=a9b1d6" alt="GitHub Streak" width="48%"/>
+## 📬 CONNECT WITH ME 📬
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexhaloETH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top Languages" width="48%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alessandro-bufalino-3732b5273/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://discord.com/users/286210715604221963">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" height="40"/>
+  </a>
+  <a href="https://alexhaloeth.github.io/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF6B35?logo=browser&logoColor=white" alt="Portfolio" height="40"/>
+  </a>
+  <a href="https://grugslair.xyz/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Grug's_Lair-00D9FF?logo=rocket&logoColor=white" alt="Grug's Lair" height="40"/>
+  </a>
+</p>
 
 </div>
 
-
 ---
 
 <div align="center">
 
-### 📫 **Connect** • `hash(social_media)`
+### 💭 *"Code is poetry written in logic"*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexhalo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://alexhalo.dev)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://komarev.com/ghpvc/?username=alexhaloETH&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
 
-*Profile views generated with Perlin noise* • ![](https://komarev.com/ghpvc/?username=alexhaloETH&color=blueviolet&style=flat-square&label=Procedurally+Generated+Views)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
