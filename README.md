@@ -47,8 +47,3 @@
   <img src="https://cdn.worldvectorlogo.com/logos/bevy-1.svg" alt="bevy" width="40" height="40"/>
 </p>
 
----
-
-<h3>My GitHub Stats</h3>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexhaloETH&theme=dark" alt="alexhaloETH"/>
