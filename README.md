@@ -51,6 +51,4 @@
 
 <h3>My GitHub Stats</h3>
 
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexhaloETH&theme=dark" alt="alexhaloETH"/>
